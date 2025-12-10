@@ -57,7 +57,7 @@ project/
   - matplotlib  
   - seaborn  
   - scipy  
-  - scikit-learn (if used in preprocessing)
+  - scikit-learn
 
 ### **Install Dependencies**
 
@@ -119,6 +119,11 @@ These help students understand how hurricanes impact Louisiana and how search al
 - A\* Path Cost: **170.53**  
 ➡️ Both algorithms produced **optimal and identical cost paths**.
 
+### **Steps Taken**
+- UCS: **171 steps**  
+- A\*: **171 steps**  
+➡️ Both explored the same number of steps.
+
 ### **Nodes Expanded**
 - UCS: **171 nodes**  
 - A\*: **171 nodes**  
@@ -148,10 +153,5 @@ The approach demonstrates how AI search strategies can be directly applied to pu
 ---
 
 ## 👥 Contributors
-- **Ben** — Data processing, model design, visualizations  
-- **Rohit** — Route planning model, search implementations, analysis
-
----
-
-## 📞 Contact
-For questions or further research collaboration, feel free to reach out.
+- **Jacob** — Data processing, model design, analysis
+- **Rohit** — Route planning model, search implementations, visualizations
